@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+10+ years of experienced senior software engineer skilled in analyzing problems and creating solutions with Python(Django and Flask), Golang, AWS(Lambda, EC2, API Gateway, Elastic Beanstalk, Amazon Rekognition, SQS, SNS, Step Functions, Secret Manager, Dynamo DB, RedShift), JavaScript/TypeScript (Vue.js, Nuxt.js, Vuetify, Vuex, Quasar framework, Tailwind CSS, React, Redux, Next.js, Bootstrap, Material UI, Node.js, Express.js, Nest.js), HTML/HTML5, CSS/CSS3, and Sass/SCSS.
+
+A builder of both REST APIs and GraphQL APIs, I'm particularly interested in putting together highly customized backends that store and serve data efficiently and securely and complementing them with great-looking client interfaces that provide best-in-class user experiences. Working many years as a senior developer I know Django inside and out, working with middleware, database optimization, Celery task queues, REST APIs, GraphQL, and connecting it to various frontend frameworks (but love working on the backend). As a full-stack developer, I am skilled in both front-end and back-end development as well as DevOps.
+
+My Computer Science experience gives me highly unique perspectives and has allowed me to quickly gain software engineering skills and acquire knowledge perhaps faster than others.
+
+I'm a skilled communicator, enabling both technical and non-technical project participants to focus on their goals early in the development process and to understand and make changes due to unexpected events throughout the project's life cycle.
+
+Connect with me today if you are interested in networking with a client-focused and collaborative software engineer.
+
 <!--
 **daniel-sanders/daniel-sanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
